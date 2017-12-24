@@ -51,5 +51,5 @@ I have some of my own open source projects hosted on Github.
 
 # Sports
 
-I swam competitively from around 2012 up until March 2013, competing and training with East Lothian Swim Team.
+I swam competitively from around 2006 up until March 2013, competing and training with East Lothian Swim Team.
 I'm more of a recreationalist nowadays; enjoying running, rock climbing, hill walking, badminton and whatever else.
