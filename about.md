@@ -6,27 +6,50 @@ permalink: /about/
 
 <amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+# Work
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+I'm currently working as a Graduate Embedded Software Engineer at Exterity Ltd.
+Exterity make IPTV equipment for hotels, stadiums, schools, universities, corporate/government buildings etc.
+I started at Exterity as an intern in my 3rd year at university, and have kept up appearances ever since.
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+# Education
+
+I graduated from Heriot-Watt University in June 2017 with an MEng in Computing and Electronics (Distinction).
+I was awarded the IET Prize for outstanding acheivement.
+
+
+# Hobbies
+
+As my main hobby I work as part of Team Triforce, a small team of 'roboteers' designing and building heavyweight fighting robots.
+We design our own electronics and firmware, all of which is open source and available on Github.
+
+# Open Source
+
+Some of the open source projects I have worked with:
+
+- Bootloaders/UEFI/BIOS
+	- Coreboot
+	- SeaBIOS
+	- Tianocore (EDK2)
+- Operating Systems
+	- Yocto
+	- Linux
+	- mbed-os
+- Web Frameworks
+	- Jekyll
+	- Django
+	- sierra
+	- Falcon
+	- Cockpit
+- Tools
+	- KiCAD
+	- Atom
+	- OpenCV
+	- QEMU
+
+I have some of my own open source projects hosted on Github.
+
+# Sports
+
+I swam competitively from around 2012 up until March 2013, competing and training with East Lothian Swim Team.
+I'm more of a recreationalist nowadays; enjoying running, rock climbing, hill walking, badminton and whatever else.
