@@ -1,7 +1,7 @@
 # Site settings
 title: Cameron A. Craig
 description: A repository of useful things for the common software specialist.
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/yellowstone.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
