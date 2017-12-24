@@ -15,12 +15,8 @@ github:  camieac
 
 #Additional Pages
 about: about
-contact: contact
-privacy-policy: privacy-policy
-
 
 permalink: /:title
-
 
 # Google Analytics
 analytics_id: ""
@@ -30,10 +26,6 @@ markdown: kramdown
 
 kramdown:
   parse_block_html: true
-
-plugins:
-  - jekyll-paginate
-
 
 # Settings for rake task
 safe: False
@@ -55,3 +47,5 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
+
+gems: [jekyll-paginate]
