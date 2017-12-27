@@ -232,7 +232,13 @@ creating a pattern in the encrypted image:
 Each cell represents a byte. Five full pixels can fit into a block,
 with the last pixel overlapping into the next block.
 
-### Results of OpenSSL encrpytion of contiguous data
+<a name="results"></a>
+# Results
+
+The two sets of images shown below are low resulution and are limited in
+colour space. This makes the patterns in teh ECB encrypted images very obvious.
+
+## Results of OpenSSL encryption of contiguous data
 
 <main class="flex flex-wrap justify-around align-item items-center">
 <div class="flex flex-column items-center">
@@ -355,7 +361,7 @@ This fills the remainder of the 16-byte block with zeros.
 ### Resulting images
 
 <a name="conclusion"></a>
-# Conslusion
+# Conclusion
 
 I hope this article has provided the reader with an understanding of the AES ECB
 pattern vunerability and also provided example usage of a number of software
