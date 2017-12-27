@@ -124,6 +124,26 @@ need to keep the same.
 When we use the PPM format in ASCII form, the encrypted image becomes invalid
 as the ciphertext may not be a valid ASCII value.
 
+Example snippet of a PPM image:
+
+```
+P6
+2048 1536
+255
+�������������...
+...
+```
+
+```
+P6   --> The magic number identifying the image format
+2048 --> Width of image in pixels
+1536 --> Height of image in pixels
+225  --> Maximum colour value
+```
+Note that the PPM image format is inefficient by today's standards so won't
+be used much. But we don't care about any of that, we're keeping things simple.
+
+More information on the PPM image format can be found by a Google search.
 
 
 <a name="method"></a>
