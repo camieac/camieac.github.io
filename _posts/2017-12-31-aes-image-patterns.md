@@ -326,6 +326,15 @@ colour space. This makes the patterns in teh ECB encrypted images very obvious.
 <a name="af_alg"></a>
 ## Encypting PPM Images using AF_ALG
 
+For this example to work you must be using Linux with AF_ALG enabled.
+You can check that the `CRYPTO_USER_API` config value has been set to `y` or `m`
+by running:
+
+```
+cat /boot/config*  | grep CRYPTO_USER_API
+
+```
+
 The following C code acesses the kernel crypto API using the AF_ALG userspace API.
 This API has been selected beciause it it particularly suitable to the task at hand.
 We can make use of AF_ALG's ability to encrypt non-contiguous data to our advnatage.
@@ -367,5 +376,5 @@ I hope this article has provided the reader with an understanding of the AES ECB
 pattern vunerability and also provided example usage of a number of software
 tools associated with encryption on Linux.
 
-The reader should now have some backgound knowledge that may come in handy When
+The reader should now have some backgound knowledge that may come in handy when
 designing secure systems.
