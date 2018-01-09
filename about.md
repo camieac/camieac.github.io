@@ -14,9 +14,7 @@ I started at Exterity as an intern in my 3rd year at university, and have kept u
 
 # Education
 
-I graduated from Heriot-Watt University in June 2017 with an MEng in Computing and Electronics (Distinction).
-I was awarded the IET Prize for outstanding acheivement.
-
+I graduated from Heriot-Watt University in June 2017 with an MEng in Computing and Electronics.
 
 # Hobbies
 
