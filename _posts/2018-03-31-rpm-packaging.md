@@ -16,7 +16,10 @@ Examples of how to package software as RPMs.
 <ol>
 <li><a href="#title-image">Title Image</a></li>
 <li><a href="#introduction">Introduction</a></li>
-<li><a href="#purpose">Purpose</a></li>
+<li><a href="#examples">Examples</a></li>
+<ol type="i">
+	<li><a href="#hello-world-program">Hello World Program</a></li>
+</ol>
 <li><a href="#background">Background</a></li>
 <li><a href="#method">Method</a></li>
 <li><a href="#results">Results</a></li>
@@ -29,8 +32,22 @@ Examples of how to package software as RPMs.
 <a name="introduction"></a>
 # Introduction
 
-<a name="purpose"></a>
-# Purpose
+<a name="examples"></a>
+# Examples
+
+<a name="hello-world-program"></a>
+## Hello World Program
+
+Package a hello world program into an rpm.
+
+Makefile:
+```
+```
+
+C file:
+```
+```
+
 
 <a name="background"></a>
 # Background
@@ -43,3 +60,4 @@ Examples of how to package software as RPMs.
 
 <a name="conclusion"></a>
 # Conclusion
+
