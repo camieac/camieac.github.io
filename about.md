@@ -8,18 +8,15 @@ permalink: /about/
 
 # Work
 
-I'm currently working as a Graduate Embedded Software Engineer at Exterity Ltd.
-Exterity make IPTV equipment for hotels, stadiums, schools, universities, corporate/government buildings etc.
-I started at Exterity as an intern in my 3rd year at university, and have kept up appearances ever since.
+Senior Software Engineer at Exterity Ltd.
 
 # Education
 
-I graduated from Heriot-Watt University in June 2017 with an MEng in Computing and Electronics.
+MEng in Computing and Electronics from Heriot-Watt University.
 
 # Hobbies
 
-As my main hobby I work as part of Team Triforce, a small team of 'roboteers' designing and building heavyweight fighting robots.
-We design our own electronics and firmware, all of which is open source and available on Github.
+Electronics, Running, Roboteering, Hill Walking
 
 # Open Source
 
@@ -46,8 +43,3 @@ Some of the open source projects I have worked with:
 	- QEMU
 
 I have some of my own open source projects hosted on Github.
-
-# Sports
-
-I swam competitively from around 2006 up until March 2013, competing and training with East Lothian Swim Team.
-I'm more of a recreationalist nowadays; enjoying running, rock climbing, hill walking, badminton and whatever else.
